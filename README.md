@@ -1,5 +1,5 @@
 # Portif-lio-BackEnd
-Utilizei apenas Python :]
+Utilizei apenas Python para fazer algo parecido com um portfólio. :]
 
 ![image](https://github.com/Gustavovo17102003/Portif-lio-BackEnd/assets/136706241/d7887a14-c7ed-44ee-bc9e-7c6ce346e5af)
 ![image](https://github.com/Gustavovo17102003/Portif-lio-BackEnd/assets/136706241/128c1a91-8281-4ecb-8631-edea478171c2)
